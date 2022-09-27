@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-image: linear-gradient(to right, #dad2f3, #fba8a4);
 }
 
 .container {
@@ -16,7 +17,7 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 1px solid #faa47f;
   padding: 30px;
   border-radius: 5px;
 }
